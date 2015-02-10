@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <color name="BackGround">#ff3390ff</color>
+    <color name ="TextColor">#ffb9871c</color>
+    <color name ="PlayButton">#ff000000</color>
+    <color name ="PlayButtonText">#ff5f98a8</color>
+    <color name ="NameInputColor">#ff09d300</color>
+    <color name="BackGround2">#5f0966d6</color>
+    <color name ="PlayButton2">#e6c10600</color>
+</resources>
